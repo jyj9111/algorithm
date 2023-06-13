@@ -1,4 +1,4 @@
-package study;
+package study.sort;
 
 import java.util.Arrays;
 
